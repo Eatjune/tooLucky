@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cobweb1
+  rotate: false
+  xy: 339, 15
+  size: 147, 148
+  orig: 147, 148
+  offset: 0, 0
+  index: -1
+Cobweb2
+  rotate: false
+  xy: 180, 8
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+Cobweb3
+  rotate: false
+  xy: 2, 2
+  size: 176, 161
+  orig: 176, 161
+  offset: 0, 0
+  index: -1

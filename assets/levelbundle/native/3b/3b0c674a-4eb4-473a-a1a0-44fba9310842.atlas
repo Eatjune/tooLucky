@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flowerface1
+  rotate: false
+  xy: 2, 22
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+flowerface2
+  rotate: false
+  xy: 2, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+flowerface3
+  rotate: true
+  xy: 75, 16
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+flowerface4
+  rotate: false
+  xy: 75, 65
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+flowerface5
+  rotate: true
+  xy: 75, 40
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+skeleton37.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_happy
+  rotate: false
+  xy: 2, 59
+  size: 272, 352
+  orig: 272, 352
+  offset: 0, 0
+  index: -1
+body_sad
+  rotate: false
+  xy: 276, 59
+  size: 272, 352
+  orig: 272, 352
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 550, 250
+  size: 147, 161
+  orig: 147, 161
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 550, 100
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 259, 55
+  orig: 259, 55
+  offset: 0, 0
+  index: -1

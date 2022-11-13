@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firefly1
+  rotate: true
+  xy: 77, 11
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+firefly2
+  rotate: false
+  xy: 2, 2
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+firefly3
+  rotate: true
+  xy: 158, 40
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandage
+  rotate: false
+  xy: 191, 2
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 191, 51
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+book_magic
+  rotate: false
+  xy: 110, 31
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+book_magic2
+  rotate: true
+  xy: 275, 57
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 2, 20
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+cape2
+  rotate: false
+  xy: 343, 61
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+eye_evil
+  rotate: false
+  xy: 110, 20
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+eye_hurt
+  rotate: false
+  xy: 471, 63
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+eye_normal
+  rotate: false
+  xy: 2, 9
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 409, 60
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+left_hand_book
+  rotate: true
+  xy: 252, 4
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 471, 74
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1

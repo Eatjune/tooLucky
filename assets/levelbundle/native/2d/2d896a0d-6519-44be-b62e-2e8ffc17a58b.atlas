@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bushes01
+  rotate: false
+  xy: 115, 11
+  size: 107, 37
+  orig: 107, 37
+  offset: 0, 0
+  index: -1
+bushes02
+  rotate: true
+  xy: 115, 50
+  size: 47, 141
+  orig: 47, 141
+  offset: 0, 0
+  index: -1
+bushes03
+  rotate: false
+  xy: 2, 2
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+bushes04
+  rotate: true
+  xy: 154, 105
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+trap01
+  rotate: false
+  xy: 258, 6
+  size: 104, 48
+  orig: 104, 48
+  offset: 0, 0
+  index: -1
+trap02
+  rotate: true
+  xy: 258, 56
+  size: 47, 141
+  orig: 47, 141
+  offset: 0, 0
+  index: -1
+trap03
+  rotate: false
+  xy: 300, 125
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+trap04
+  rotate: false
+  xy: 2, 99
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
